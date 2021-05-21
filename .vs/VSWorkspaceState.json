@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my_proj",
+    "\\my_proj\\public",
+    "\\my_proj\\src",
+    "\\my_proj\\src\\component"
+  ],
+  "SelectedNode": "\\my_proj\\src\\component\\Func.js",
+  "PreviewInSolutionExplorer": false
+}
